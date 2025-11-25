@@ -1,0 +1,31 @@
+<!-- Science Study Game: Astronomy + Biology -->body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f0f8ff;
+}
+.container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+}
+button:hover {
+  background-color: #45a049;
+}
+#answers button {
+  display: block;
+  width: 80%;
+  margin: 8px auto;
+}
